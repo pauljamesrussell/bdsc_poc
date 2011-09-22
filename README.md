@@ -1,0 +1,1 @@
+This project is an experimental approach to describing SOA service contracts using Cucumber/Gherkin.
