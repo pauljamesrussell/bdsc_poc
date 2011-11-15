@@ -3,6 +3,7 @@ This project is an experimental approach to describing SOA service contracts usi
 Initial Goal
 ============
 
-Our initial goal is to implement a simple test for a service using Cucumber which automatically generates its own documentation a la [Relish][1].
+Our initial goal is to implement a simple test for a service using [Cucumber][1] which automatically generates its own documentation a la [Relish][2].
 
-[1]: https://www.relishapp.com/
+[1]: http://cukes.info/
+[2]: https://www.relishapp.com/
