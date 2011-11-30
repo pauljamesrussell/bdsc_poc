@@ -16,6 +16,6 @@ Feature: getAddressFromZIP
 
 		Examples:
 			| zipcode | city 						| state | areacode	| timezone	|
-			| 90210		| Beverley Hills	| CA 		| 310 			| P 				|
+			| 90210		| Beverly Hills		| CA 		| 310 			| P 				|
 			| 12301 	| Schenectady 		| NY 		| 518				| E 				|
 			| 90101 	| Los Angeles 		| CA 		| 213 			| P 				|
